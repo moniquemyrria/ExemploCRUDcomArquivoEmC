@@ -119,7 +119,7 @@ void alterar(){
 						printf(" Endereco: ");
 						fflush(stdin);
 						gets(funcAlterado.endereco);
-						printf(" Quantidade: ");
+						printf(" Idade: ");
 						scanf("%d",&funcAlterado.idade);
 						printf(" Valor Salario R$: ");
 						scanf("%f",&funcAlterado.salario);
